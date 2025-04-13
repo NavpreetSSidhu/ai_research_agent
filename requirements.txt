@@ -1,0 +1,8 @@
+langchain
+openai
+chromadb
+beautifulsoup4
+requests
+playwright
+python-dotenv
+notion-client
